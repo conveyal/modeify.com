@@ -1,0 +1,10 @@
+# Site settings
+title: Modeify
+email: contact@conveyal.com
+description: > # The website for Modeify, an open source Transportation
+    Demand Management platform.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://modeify.co" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
