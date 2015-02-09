@@ -8,7 +8,7 @@ Modeify is an open-source platform for multimodal commuter engagement. Utilizing
 ### Making Travel Information Relevant
 
 <figure class="inline-left">
-  <img src="/img/best_option.png">
+  <img src="{{ site.url }}/img/best_option.png">
 </figure>
 
 Modeify makes travel information relevant, providing users with personalized picture of how the important places in their lives are connected. While there are many journey planners that provide detailed point-to-point itineraries, Modeify provides the context that users need to make smarter travel choices.  Results are tailored to a user’s personal travel patterns and preferences, with options expressed in terms of benefits that matter to people -- not just traditional metrics like travel time and cost but also health, environment, and lifestyle benefits.
@@ -16,7 +16,7 @@ Modeify makes travel information relevant, providing users with personalized pic
 ### All Options, All in One Place
 
 <figure class="inline-right">
-  <img src="/img/all_options.png">
+  <img src="{{ site.url }}/img/all_options.png">
 </figure>
 
 Modeify aims to get users thinking about travel options that might not be obvious otherwise. The underlying routing engine is fully multimodal, covering public transit, walking, bicycling and driving, with a focus on rideshare options such as carpool and vanpool. Transit options are expressed in a way that is understandable to new transit users, focusing on salient trip structure and characteristics rather than on highly specific itineraries. Combinations of modes (for instance, biking to transit) are shown where appropriate. By providing a clear and concise overview of options, users have the context they need to make well-informed travel decisions.
@@ -24,7 +24,7 @@ Modeify aims to get users thinking about travel options that might not be obviou
 ### Targeting and Tracking Behavior Change
 
 <figure class="inline-left">
-  <img src="/img/manager.png">
+  <img src="{{ site.url }}/img/manager.png">
 </figure>
 
 Modeify provides powerful tools for tracking commuter behavior trends. Profiles are created automatically for all visitors to the site, which both improves the user experience and provides valuable information about traveler preferences and behavior trends to employers and TDM providers. Modeify currently includes an administrative interface for creating and managing targeted, personalized email campaigns within an organization, and work is underway to expand these tools, allowing for dynamic ridematching within a population of users, advanced outreach campaigns and follow-up, and detailed analysis of user behavior.
