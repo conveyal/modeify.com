@@ -4,6 +4,7 @@ email: contact@conveyal.com
 description: > # The website for Modeify, an open source Transportation
     Demand Management platform.
 baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://conveyal.com/modeify.com"
 
 # Build settings
 markdown: kramdown
