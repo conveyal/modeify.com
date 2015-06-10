@@ -18,4 +18,4 @@ optimize:
 
 push:
 	@jekyll build
-	@aws s3 sync _site s3://modeify.com --recursive
+	@aws s3 sync _site s3://modeify.com
